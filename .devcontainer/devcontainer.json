@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json.
 {
 	"name": "Rumbas",
-	"image": "ghcr.io/m8rex/rumbas-vscode:0.8.1",
+	"image": "ghcr.io/m8rex/rumbas-vscode:0.8.0",
 	// Configure tool-specific properties.
 	"customizations": {
 		// Configure properties specific to VS Code.
