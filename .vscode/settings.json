@@ -1,0 +1,56 @@
+{
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": "./_output/",
+    "VsCodeTaskButtons.showCounter": true,
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "create rumbas project",
+            "alignment": "left",
+            "task": "init",
+            "description": "Create a new rumbas project in the current folder.",
+            "tooltip": "Create a new rumbas project in the current folder."
+        },
+        {
+            "label": "Update to new rumbas",
+            "alignment": "left",
+            "task": "update-repo",
+            "description": "Update your project to a newer version.",
+            "tooltip": "Update your project to a newer version.",
+        },
+        {
+            "label": "Check file",
+            "alignment": "left",
+            "task": "check",
+            "tooltip": "Check the current file.",
+            "description": "Check the current file."
+        },
+        {
+            "label": "Check file (verbose)",
+            "alignment": "left",
+            "task": "check verbose",
+            "tooltip": "Check the current file with verbose logging.",
+            "description": "Check the current file with verbose logging."
+        },
+        {
+            "label": "Compile file",
+            "alignment": "left",
+            "task": "compile",
+            "tooltip": "Compile the current file.",
+            "description": "Compile the current file."
+        },
+        {
+            "label": "Compile file (verbose)",
+            "alignment": "left",
+            "task": "compile",
+            "tooltip": "Compile the current file with verbose logging.",
+            "description": "Compile the current file with verbose logging."
+        },
+        {
+            "label": "Watch rumbas project",
+            "alignment": "left",
+            "task": "watch",
+            "tooltip": "Watch the current project.",
+            "description": "Watch the current project."
+        }
+    ]
+}
